@@ -1,1 +1,0 @@
-((ab|(ab|a|b)(ab|a|b)|a(ab|a|b))(ab|a|b)|a(ab|a|b))
